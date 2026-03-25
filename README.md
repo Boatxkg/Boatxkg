@@ -1,37 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-
-Previous
-buymeacoffee
-Buy Me a Coffee:
-yourname
-kofi
-Ko-fi:
-yourname
-
-Previous
-Reorder Sections
-Preview
-Markdown
-Copy
-Repositories for My Stack
--------------------------
-
 * 🌍  I'm based in Loei
 * 🧠  I'm currently learning Svelte / Vue / Typscript / C#
 
@@ -46,5 +12,3 @@ Repositories for My Stack
 ### Badges
 
 <a href="https://github.com/Boatxkg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boatxkg&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
