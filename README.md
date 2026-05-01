@@ -19,7 +19,10 @@
 
 <h3 align="center">Frontend</h3>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/astro/astro-original.svg" alt="Astro" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/svelte/svelte-original.svg" alt="Svlete" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nuxtjs/nuxtjs-original.svg" alt="Vue.js" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
 
 </p>
